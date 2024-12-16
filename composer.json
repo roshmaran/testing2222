@@ -1,0 +1,12 @@
+{
+    "name": "roshmaran/testing123",
+    "authors": [
+        {
+            "name": "roshini",
+            "email": "roshini4@runcloud.io"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
